@@ -32,5 +32,5 @@
 [<img align="left" alt="Edison Bujupi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Edison Bujupi | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-[linkedin]: https://www.linkedin.com/in/yourlinkedin
-[github]: https://github.com/yourgithub
+[linkedin]: https://github.com/Edcybeer
+[github]: https://www.linkedin.com/in/edison-bujupi-0a3924292/
