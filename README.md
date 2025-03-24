@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edison Bujupi! <br/><a href="https://github.com/yourgithub">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/yourlinkedin">Penetration Tester</a></h1>
+<h1>Hi, I'm Edison Bujupi! <br/><a href="https://github.com/Edcybeer">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/edison-bujupi-0a3924292/">Penetration Tester</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
