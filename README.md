@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+-<b>SOC Homelab</b?
+  - [Security Operation Center Homelab](https://github.com/Edcybeer/Security-Operations-Center-SOC-homelab)
 - <b>MaLGuard</b>
   - [Malware Analysis and Detection](https://github.com/yourgithub/malguard)
 - <b>Malicious URL Extension</b>
